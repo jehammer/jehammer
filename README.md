@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome to my GitHub!
+
+This is currently just a test push, I will include some information at a later date. Meanwhile, feel free to browse around my page. My email is linked on my profile.
+
+
+
+
+
 
 <!--
 **Drakador/Drakador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
