@@ -3,7 +3,7 @@
 This is currently just a test push, I will include some information at a later date. Meanwhile, feel free to browse around my page. My email is linked on my profile.
 
 
-
+![](https://img.shields.io/badge/<OS>-<Arch Linux>-informational?style=flat&logo=<Arch_Linux>&logoColor=white&color=2bbc8a)
 
 
 
