@@ -2,10 +2,11 @@
 
 My name is Joshua, I am a Computer Science Major at Lewis University with aspirations in Software Development. I currently live in the Chicago Suburbs and attend college full time. 
 
-You can most often find me on [![Twitter][1.1]][1], or [![LinkedIn][2.1]][2]
+You can find me on [![Twitter][1.1]][1], or [![LinkedIn][2.1]][2]
 
-You can check out other stuff <a href="drakador.github.io">here on my github pages site</a>
+You can check out other stuff <a href="drakador.github.io">here on my github pages site</a>.
 
+You can also <a href="mailto:jebelfor@gmail.com">send me an email.</a>
 
 Personal Operating Systems
 
