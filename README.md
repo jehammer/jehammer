@@ -1,9 +1,47 @@
 ### Welcome to my GitHub!
 
-This is currently just a test push, I will include some information at a later date. Meanwhile, feel free to browse around my page. My email is linked on my profile.
+My name is Joshua, I am a Computer Science Major at Lewis University with aspirations in Software Development. I currently live in the Chicago Suburbs and attend college full time. 
 
-![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat&logo=data:image/svg;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QXJjaCBMaW51eCBpY29uPC90aXRsZT48cGF0aCBkPSJNMTEuMzkwMjMyLjYwNTA5QzEwLjM3NTY1NSAzLjA5MTY4IDkuNzY0Mjg1IDQuNzE4NSA4LjYzNTEzIDcuMTMxNjJjLjY5MjcxMi43MzQ2OTUgMS41NDI4NTcgMS41ODkyMTQgMi45MjMwMzIgMi41NTM5MzctMS40ODQyNTYtLjYxMDQ5Ni0yLjQ5NjIxLTEuMjIzNjE1LTMuMjUyNzctMS44NTk0NzUtMS40NDQ4OTcgMy4wMTU3NDMtMy43MTAyMDQgNy4zMTE5NTMtOC4zMDU1NCAxNS41Njg1MTMgMy42MTIyNDYtMi4wODUxMyA2LjQxMTk1NS0zLjM2OTk3IDkuMDIwOTkzLTMuODYxNTE2LS4xMTE5NTQtLjQ4MTA1LS4xNzU4MDItMS4wMDMyMDgtLjE3MTQzLTEuNTQ3MjNsLjAwMzUtLjExNTQ1M2MuMDU3NzI1LTIuMzE0Mjg2IDEuMjYxMjI0LTQuMDk0MTcgMi42ODY4OC0zLjk3MjU5NSAxLjQyNTY1Ni4xMTk4MjUgMi41MzM4MiAyLjA5NTYyNyAyLjQ3Nzg0MyA0LjQwOTAzOC0uMDEwNDk2LjQzNTU3LS4wNjAzNS44NTQ1Mi0uMTQ2MDY0IDEuMjQyODU3IDIuNTgxMDUuNTA0NjY1IDUuMzUxODk1IDEuNzg2ODggOC45MTQyODYgMy44NDQwMjQtLjcwMjMzMy0xLjI5MjcxLTEuMzI5NDQ3LTIuNDU4Ni0xLjkyODU3Mi0zLjU2OTM4Ny0uOTQzNzMyLS43MzExOTYtMS45MjY4MjItMS42ODI4LTMuOTMzMjM2LTIuNzEzMTIgMS4zNzkzLjM1ODYgMi4zNjY3NjQuNzcxNDMgMy4xMzY0NDMgMS4yMzQxMUMxMy45NzA0MDcgNy4wMTA5MjIgMTMuNDc4ODYyIDUuNTAzOTI0IDExLjM5MDIzMi42MDUwOXpNMjIuODk3ODEzIDIxLjM2MDE5M3YtLjYyMzYxNWgtLjIzMzUyOHYtLjA4Mzk2NWguNTYxNTE2di4wODM5NjVoLS4yMzQ0di42MjM2MTVoLS4wOTM1ODdNMjMuMzIyODg2IDIxLjM2MDE5M3YtLjcwNzU4aC4xNDE2OWwuMTY3MDU2LjUwMTE2NmMuMDE1NzQ0LjA0NzIzLjAyNzExNC4wODIyMTUuMDM0MTEuMTA1ODMuMDA3ODczLS4wMjUzNjUuMDIwMTE4LS4wNjM4NS4wMzg0ODUtLjExMzcwM2wuMTY4ODA1LS40OTMyOTRoLjEyNjgyMnYuNzA3NThoLS4wOTA5NjJ2LS41OTMwMDNsLS4yMDY0MTQuNTkzMDAzaC0uMDgzOTY1bC0uMjA0NjY1LS42MDI2MjR2LjYwMjYyM2gtLjA5MDk2MiIvPjwvc3ZnPg==)
+You can most often find me on [![Twitter][1.1]][1], or [![LinkedIn][2.1]][2]
 
+You can check out other stuff <a href="drakador.github.io">here on my github pages site</a>
+
+
+Personal Operating Systems
+
+![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat&logo=arch-linux) 
+![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat&logo=windows) 
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux)
+
+Technologies, Tools, Skills
+
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java) 
+![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=c%2B%2B) 
+![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=C) 
+![](https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo=HTML5) 
+![](https://img.shields.io/badge/Language-CSS3-informational?style=flat&logo=CSS3) 
+![](https://img.shields.io/badge/Language-Python(2&3)-informational?style=flat&logo=Python) 
+
+![](https://img.shields.io/badge/General-Computer_Hardware_Repair-informational?style=flat&logo=Lenovo) 
+![](https://img.shields.io/badge/General-Computer_Software_Repair-informational?style=flat&logo=Lenovo) 
+
+![](https://img.shields.io/badge/Microsoft-Access_2016_Certification-informational?style=flat&logo=Microsoft-Office) 
+![](https://img.shields.io/badge/Microsoft-Microsoft_Office-informational?style=flat&logo=Microsoft-Office)
+![](https://img.shields.io/badge/Microsoft-Libre_Office-informational?style=flat&logo=Libre-Office)
+
+
+
+![](https://img.shields.io/badge/Tool-Git-orange?style=flat&logo=Git)
+![](https://img.shields.io/badge/Tool-Github-orange?style=flat&logo=Github)
+
+<!-- icons -->
+
+[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.1]: https://raw.githubusercontent.com/Drakador/Drakador/master/linkedin.png 
+
+<!-- Links -->
+[1]: https://twitter.com/Drakador
+[2]: https://www.linkedin.com/in/joshua-belfor/
 
 
 <!--
