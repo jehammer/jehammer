@@ -37,7 +37,7 @@ Technologies, Tools, Skills
 <!-- icons -->
 
 [1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.1]: https://raw.githubusercontent.com/Drakador/Drakador/master/linkedin.png 
+[2.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (Martins since the one from me is not working correctly)
 
 <!-- Links -->
 [1]: https://twitter.com/Drakador
