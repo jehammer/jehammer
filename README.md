@@ -28,7 +28,7 @@ Technologies, Tools, Skills
 
 ![](https://img.shields.io/badge/Microsoft-Access_2016_Certification-informational?style=flat&logo=Microsoft-Office) 
 ![](https://img.shields.io/badge/Microsoft-Microsoft_Office-informational?style=flat&logo=Microsoft-Office)
-![](https://img.shields.io/badge/Microsoft-Libre_Office-informational?style=flat&logo=Libre-Office)
+![](https://img.shields.io/badge/Libre-Libre_Office-informational?style=flat&logo=Libre-Office)
 
 
 
