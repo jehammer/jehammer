@@ -28,7 +28,7 @@ Technologies, Tools, Skills
 
 ![](https://img.shields.io/badge/Microsoft-Access_2016_Certification-informational?style=flat&logo=Microsoft-Office) 
 ![](https://img.shields.io/badge/Microsoft-Microsoft_Office-informational?style=flat&logo=Microsoft-Office)
-![](https://img.shields.io/badge/Libre-Libre_Office-informational?style=flat&logo=Libre-Office)
+![](https://img.shields.io/badge/Libre-Libre_Office-informational?style=flat&logo=LibreOffice)
 
 
 
@@ -37,7 +37,7 @@ Technologies, Tools, Skills
 
 <!-- icons -->
 
-[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.1]: http://i.imgur.com/wWzX9uB.png
 [2.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 <!-- Links -->
@@ -47,6 +47,13 @@ Technologies, Tools, Skills
 
 <!--
 **Drakador/Drakador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+Sites to use
+https://simpleicons.org/
+
+
 
 Here are some ideas to get you started:
 
