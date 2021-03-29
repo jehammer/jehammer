@@ -2,7 +2,7 @@
 
 My name is Joshua, I am a Computer Science Major at Lewis University with aspirations in Software Development. I currently live in the Chicago Suburbs and attend college full time. 
 
-You can find me on [![Twitter][1.1]][1], or [![LinkedIn][2.1]][2]
+You can find me on [![LinkedIn][2.1]][2]
 
 You can check out other stuff <a href="https://drakador.github.io/">here on my github pages site</a>.
 
@@ -36,12 +36,9 @@ Technologies, Tools, Skills
 ![](https://img.shields.io/badge/Tool-Github-orange?style=flat&logo=Github)
 
 <!-- icons -->
-
-[1.1]: http://i.imgur.com/wWzX9uB.png
 [2.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 <!-- Links -->
-[1]: https://twitter.com/Drakador
 [2]: https://www.linkedin.com/in/joshua-belfor/
 
 
