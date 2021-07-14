@@ -6,7 +6,7 @@ You can also find me on <a href ="https://www.linkedin.com/in/joshua-belfor/">Li
 
 You can check out other stuff <a href="https://drakador.github.io/">here on my github pages site</a>.
 
-You can also <a href="mailto:hammerje@outlook.com">send me an email.</a>
+You can also <a href="mailto:jebelfor@gmail.com">send me an email.</a>
 
 Personal Operating Systems
 
