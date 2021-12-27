@@ -1,58 +1,54 @@
-### Welcome to my GitHub!
+<div>
+<h3>Welcome to my GitHub!</h3>
+<h4>About Me</h4>
+<p>My name is Joshua, I am a Software Developer primarily in the use of though not limited to Java. My works are primarily in Java and Python at the moment, feel free to check them out!</</p>
+<p><a href="https://drakador.github.io/">Feel free to check out my Github Pages</a>.</p>
+<p>Or reach out to me:</p>
 
-My name is Joshua, I am a Computer Science Major at Lewis University with aspirations in Software Development. I currently live in the Chicago Suburbs and attend college full time. 
-
-You can also find me on <a href ="https://www.linkedin.com/in/joshua-belfor/">LinkedIn</a>
-
-You can check out other stuff <a href="https://drakador.github.io/">here on my github pages site</a>.
-
-You can also <a href="mailto:jebelfor@gmail.com">send me an email.</a>
-
-Personal Operating Systems
-
-![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat&logo=arch-linux) 
-![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat&logo=windows) 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux)
-
-Technologies, Tools, Skills
-
-![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java) 
-![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=c%2B%2B) 
-![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=C) 
-![](https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo=HTML5) 
-![](https://img.shields.io/badge/Language-CSS3-informational?style=flat&logo=CSS3) 
-![](https://img.shields.io/badge/Language-Python(2&3)-informational?style=flat&logo=Python) 
-
-![](https://img.shields.io/badge/General-Computer_Hardware_Repair-informational?style=flat&logo=Lenovo) 
-![](https://img.shields.io/badge/General-Computer_Software_Repair-informational?style=flat&logo=Lenovo) 
-
-![](https://img.shields.io/badge/Microsoft-Access_2016_Certification-informational?style=flat&logo=Microsoft-Office) 
-![](https://img.shields.io/badge/Microsoft-Microsoft_Office-informational?style=flat&logo=Microsoft-Office)
-![](https://img.shields.io/badge/Libre-Libre_Office-informational?style=flat&logo=LibreOffice)
+<a href="https://www.linkedin.com/in/joshua-hammer/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn" alt="Connect with me on LinkedIn"></a>
+<a href="mailto:jebelfor@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Send me an email"></a>
 
 
+<h4>Personal Operating Systems</h4>
 
-![](https://img.shields.io/badge/Tool-Git-orange?style=flat&logo=Git)
-![](https://img.shields.io/badge/Tool-Github-orange?style=flat&logo=Github)
+![](https://img.shields.io/badge/Arch_Linux-black?style=flat&logo=arch-linux) 
+![](https://img.shields.io/badge/Windows_10-black?style=flat&logo=windows) 
+
+<h4>Tools and Technologies</h4>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=drakador&show_icons=true&locale=en&layout=compact" alt="drakador" /></p>
+
+![](https://img.shields.io/badge/Java-black?style=flat&logo=Java) 
+![](https://img.shields.io/badge/C++-black?style=flat&logo=c%2B%2B) 
+![](https://img.shields.io/badge/C%23-black?style=flat&logo=C) 
+![](https://img.shields.io/badge/HTML5-black?style=flat&logo=HTML5) 
+![](https://img.shields.io/badge/CSS3-black?style=flat&logo=CSS3) 
+![](https://img.shields.io/badge/Python-black?style=flat&logo=Python) 
+
+![Git](https://img.shields.io/badge/Git-black?style=flat&logo=Git)
+![Github](https://img.shields.io/badge/Github-black?style=flat&logo=Github)
+![](https://img.shields.io/badge/Computer_Hardware_Repair-black?style=flat&logo=Lenovo) 
+![](https://img.shields.io/badge/Computer_Software_Repair-black?style=flat&logo=Lenovo) 
+
+![](https://img.shields.io/badge/Microsoft_Access_2016_Certification-black?style=flat&logo=Microsoft-Office) 
+![](https://img.shields.io/badge/Microsoft_Office-black?style=flat&logo=Microsoft-Office)
+![](https://img.shields.io/badge/Libre_Office-black?style=flat&logo=LibreOffice)
+<!-- Markdown -->
+
+A joke for your time
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+</div>
+
 
 <!--
 **Drakador/Drakador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+![](https://img.shields.io/badge/Tool-Github-orange?style=flat&logo=Github)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
 Sites to use
 https://simpleicons.org/
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+https://shields.io/
 -->
+
+
