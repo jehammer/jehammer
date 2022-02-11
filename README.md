@@ -1,7 +1,7 @@
 <div>
 <h3>Welcome to my GitHub!</h3>
 <h4>About Me</h4>
-<p>My name is Joshua, I am a Software Developer primarily in the use of though not limited to Java. My works are primarily in Java and Python at the moment, feel free to check them out!</</p>
+<p>Hello! My name is Joshua, I am a Software Developer primarily in the use of though not limited to Java. My works are primarily in Java and Python at the moment, feel free to check them out!</</p>
 <p><a href="https://drakador.github.io/">Feel free to check out my Github Pages</a>.</p>
 <p>Or reach out to me:</p>
 
