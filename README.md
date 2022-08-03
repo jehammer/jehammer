@@ -2,7 +2,7 @@
 <h3>Welcome to my GitHub!</h3>
 <h4>About Me</h4>
 <p>Hello! My name is Joshua, I am a Software Developer primarily in the use of though not limited to Java, in particular using the Spring Frameork for Cloud based applications. My personal projects are primarily in Python at the moment with some Java, feel free to check them out!</</p>
-<p><a href="https://drakador.github.io/">Feel free to check out my Github Pages</a>.</p>
+<p><a href="https://joshuahammer.github.io/">Feel free to check out my Github Pages</a>.</p>
 <p>Or reach out to me:</p>
 
 <a href="https://www.linkedin.com/in/joshua-hammer/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn" alt="Connect with me on LinkedIn"></a>
@@ -41,7 +41,7 @@ A joke for your time
 
 
 <!--
-**Drakador/Drakador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshuahammer/joshuahammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![](https://img.shields.io/badge/Tool-Github-orange?style=flat&logo=Github)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
