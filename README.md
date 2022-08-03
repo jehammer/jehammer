@@ -2,9 +2,8 @@
 <h3>Welcome to my GitHub!</h3>
 <h4>About Me</h4>
 <p>Hello! My name is Joshua, I am a Software Developer primarily in the use of though not limited to Java, in particular using the Spring Frameork for Cloud based applications. My personal projects are primarily in Python at the moment with some Java, feel free to check them out!</</p>
-<p><a href="https://joshuahammer.github.io/">Feel free to check out my Github Pages</a>.</p>
-<p>Or reach out to me:</p>
 
+<p>Want to reach out to me?</p>
 <a href="https://www.linkedin.com/in/joshua-hammer/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn" alt="Connect with me on LinkedIn"></a>
 <a href="mailto:jebelfor@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Send me an email"></a>
 
@@ -12,10 +11,10 @@
 <h4>Personal Operating Systems</h4>
 
 ![](https://img.shields.io/badge/Arch_Linux-black?style=flat&logo=arch-linux) 
-![](https://img.shields.io/badge/Windows_10-black?style=flat&logo=windows) 
+![](https://img.shields.io/badge/Windows-black?style=flat&logo=windows) 
 
 <h4>Tools and Technologies</h4>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=drakador&show_icons=true&locale=en&layout=compact" alt="drakador" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshuahammer&show_icons=true&locale=en&layout=compact" alt="joshuahammer" /></p>
 
 ![](https://img.shields.io/badge/Java-black?style=flat&logo=Java) 
 ![](https://img.shields.io/badge/C++-black?style=flat&logo=c%2B%2B) 
@@ -23,6 +22,8 @@
 ![](https://img.shields.io/badge/HTML5-black?style=flat&logo=HTML5) 
 ![](https://img.shields.io/badge/CSS3-black?style=flat&logo=CSS3) 
 ![](https://img.shields.io/badge/Python-black?style=flat&logo=Python) 
+
+![](https://img.shields.io/badge/OpenShift-black?style=flat&logo=RedHatOpenshift) 
 
 ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=Git)
 ![Github](https://img.shields.io/badge/Github-black?style=flat&logo=Github)
@@ -50,5 +51,3 @@ Sites to use
 https://simpleicons.org/
 https://shields.io/
 -->
-
-
