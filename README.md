@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/Windows-black?style=flat&logo=windows) 
 
 <h4>Tools and Technologies</h4>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshuahammer&show_icons=true&locale=en&layout=compact" alt="joshuahammer" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jehammer&show_icons=true&locale=en&layout=compact" alt="jehammer git info" /></p>
 
 ![](https://img.shields.io/badge/Java-black?style=flat&logo=Java) 
 ![](https://img.shields.io/badge/C++-black?style=flat&logo=c%2B%2B) 
