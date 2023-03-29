@@ -1,41 +1,12 @@
 <div>
-<h3>Welcome to my GitHub!</h3>
-<h4>About Me</h4>
-<p>Hello! My name is Joshua, I am a Software Developer primarily in the use of though not limited to Java, in particular using the Spring Frameork for Cloud based applications. My personal projects are primarily in Python at the moment with some Java, feel free to check them out!</</p>
+<h3>Welcome to my GitHub! 👋</h3>
+<p>Hello! I'm Joshua, a Software Developer for Cloud based applications and solutions. In my freetime I work on various projects such as my discord bot for my Elder Scrolls Online Guild! Feel free to browse and open any issues or discussions.</p>
 
-<p>Want to reach out to me?</p>
-<a href="https://www.linkedin.com/in/joshua-hammer/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn" alt="Connect with me on LinkedIn"></a>
-<a href="mailto:jebelfor@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Send me an email"></a>
+[![My Skills](https://skillicons.dev/icons?i=java,python,ts,js,html,css,cpp,cs,spring,gradle,linux,git,github,discord,bots,docker,mongodb,mysql,postman,raspberrypi&perline=10)](https://skillicons.dev)
 
 
-<h4>Personal Operating Systems</h4>
-
-![](https://img.shields.io/badge/Arch_Linux-black?style=flat&logo=arch-linux) 
-![](https://img.shields.io/badge/Windows-black?style=flat&logo=windows) 
-
-<h4>Tools and Technologies</h4>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jehammer&show_icons=true&locale=en&layout=compact" alt="jehammer git info" /></p>
-
-![](https://img.shields.io/badge/Java-black?style=flat&logo=Java) 
-![](https://img.shields.io/badge/C++-black?style=flat&logo=c%2B%2B) 
-![](https://img.shields.io/badge/C%23-black?style=flat&logo=C) 
-![](https://img.shields.io/badge/HTML5-black?style=flat&logo=HTML5) 
-![](https://img.shields.io/badge/CSS3-black?style=flat&logo=CSS3) 
-![](https://img.shields.io/badge/Python-black?style=flat&logo=Python) 
-
-![](https://img.shields.io/badge/OpenShift-black?style=flat&logo=RedHatOpenshift) 
-
-![Git](https://img.shields.io/badge/Git-black?style=flat&logo=Git)
-![Github](https://img.shields.io/badge/Github-black?style=flat&logo=Github)
-![](https://img.shields.io/badge/Computer_Hardware_Repair-black?style=flat&logo=Lenovo) 
-![](https://img.shields.io/badge/Computer_Software_Repair-black?style=flat&logo=Lenovo) 
-
-![](https://img.shields.io/badge/Microsoft_Access_2016_Certification-black?style=flat&logo=Microsoft-Office) 
-![](https://img.shields.io/badge/Microsoft_Office-black?style=flat&logo=Microsoft-Office)
-![](https://img.shields.io/badge/Libre_Office-black?style=flat&logo=LibreOffice)
-<!-- Markdown -->
-
-A joke for your time
+<a href="#"><img align="center" src="https://streak-stats.demolab.com/?user=jehammer&theme=gotham&hide_border=true&hide_border=true" alt="jehammer github stats" /></a> 
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jehammer&layout=compact&theme=gotham&hide_border=true" alt="jehammer most use langs"/></a>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 </div>
@@ -50,4 +21,5 @@ A joke for your time
 Sites to use
 https://simpleicons.org/
 https://shields.io/
+https://skillicons.dev
 -->
