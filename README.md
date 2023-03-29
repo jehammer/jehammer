@@ -7,9 +7,12 @@
 
 <a href="#"><img align="center" src="https://streak-stats.demolab.com/?user=jehammer&theme=gotham&hide_border=true&hide_border=true" alt="jehammer github stats" /></a> 
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jehammer&layout=compact&theme=gotham&hide_border=true" alt="jehammer most use langs"/></a>
+<details>
+<summary>A joke for your time?</summary>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-</div>
+
+</details>
 
 
 <!--
