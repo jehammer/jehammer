@@ -1,5 +1,6 @@
-<h3>Welcome to my GitHub! 👋</h3>
+## Welcome! 👋
+Hello! I'm Joshua, a Software Developer from the Midwest!
 
-<p>Hello! I'm Joshua, a Software Developer for cloud-based applications and solutions. In my free time I work on various projects such as my Discord bot and more! Feel free to browse and open any issues or discussions.</p>
+### **Languages and Tools** 🔨
 
-[![My Skills](https://skillicons.dev/icons?i=python,ts,js,java,html,css,aws,vue,vite,gradle,spring,git,github,bots,mongodb,postman&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,ts,js,java,html,css,aws,vue,vite,gradle,spring,nodejs,mongodb,dynamodb,postgresql,git,github,bots,docker,postman&perline=10)](https://skillicons.dev)
