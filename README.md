@@ -1,5 +1,5 @@
 ## Welcome! 👋
-Hello! I'm Joshua, a Software Developer from the Midwest!
+Hello! I'm Joshua, a Software Engineer from the Midwest!
 
 ### **Languages and Tools** 🔨
 
